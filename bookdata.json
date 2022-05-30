@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Maths",
+    "description": "Awesome",
+    "author": "R.D. Sharma"
+  },
+  {
+    "name": "English",
+    "description": "Perfect",
+    "author": "Srikant"
+  },
+  {
+    "name": "Chemistry",
+    "description": "Chemist",
+    "author": "Pradeep Agarwal"
+  },
+  {
+    "name": "Physics",
+    "description": "Good",
+    "author": "Monoj Tiwari"
+  },
+  {
+    "name": "Biology",
+    "description": "Biologist",
+    "author": "S. Chand"
+  }
+]
